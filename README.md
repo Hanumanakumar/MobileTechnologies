@@ -1,2 +1,2 @@
 # MobileTechnologies
-Creating application on mobiletechnologies
+Creating application on mobiletechnologies jalak
